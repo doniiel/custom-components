@@ -1,4 +1,4 @@
-# week15d
+# CUSTOM COMPONENTS
 
 ## Project setup
 ```
